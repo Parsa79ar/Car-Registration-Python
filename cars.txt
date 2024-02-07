@@ -1,0 +1,13 @@
+#Company
+Volkswagen-Germany-Golf-2020-127,452$
+Toyota-Japan-Hilux-2023-274,256$
+Toyota-Japan-Land Cruiser-2023-274,256$
+Ford-USA-Lobo-2023-65,521$
+Mercedes Benz-Germany-c class-2023-150,500$
+Mercedes Benz-Germany-CLA-2023-130,500$
+Mercedes Benz-Germany-CLS-2023-155,500$
+BMW-Germany-4 series-2023-120,500$
+BMW-Germany-5 series-2023-130,500$
+BMW-Germany-7 series-2023-160,500$
+BMW-Germany-8 series-2023-165,500$
+BMW-Germany-XM-2023-140,500$
